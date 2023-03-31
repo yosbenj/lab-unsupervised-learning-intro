@@ -14,4 +14,5 @@ The experiments you did with the `Spotify` API and the PopVortex web scraping wi
 
 After that, you want to send the `Spotify` audio features of the submitted song to the clustering model, which should return a cluster number.
 
-We want to have as many songs as possible to create the clustering model, so we will add the songs you collected to a bigger dataset available on Kaggle containing 160 thousand songs.
+We want to have as many songs as possible to create the clustering model, so you should get a  bigger dataset available on Kaggle containing more songs with audio features that have already been scraped and saved as a .csv file.  Here are some links to try:
+
