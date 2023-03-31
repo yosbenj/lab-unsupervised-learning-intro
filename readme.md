@@ -15,5 +15,5 @@ The experiments you did with the `Spotify` API and the PopVortex web scraping wi
 After that, you want to send the `Spotify` audio features of the submitted song to the clustering model, which should return a cluster number.  Then you recommend a song from the same cluster number.
 
 We want to have as many songs as possible to create the clustering model, so you should get a  bigger dataset available on Kaggle containing more songs with audio features that have already been scraped and saved as a .csv file.  Here are some links to try:
-[Datasets 1960 my - 2019](https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset?select=README.txt)
-[Datasets 1921 - 2020](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv)
+- [Datasets 1960 my - 2019](https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset?select=README.txt)
+- [Datasets 1921 - 2020](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv)
